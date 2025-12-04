@@ -1,6 +1,6 @@
 <div align="center">
 
-<h1> My nerd/weeabo/weirdo/nerd/goblingon <br>
+<h1> my nerd/weeabo/weirdo/nerd/goblingon <br>
 wallpapers :D </h1>
 
 <br><br>
@@ -24,5 +24,7 @@ wallpapers :D </h1>
 <img src="yorRose.png" width="400"/>
 <img src="yorZZZ.jpg" width="400"/>
 <img src="powerMinimal.png" width="400"/>
+<img src="pinkKawaiiGirl.jpg" width="400"/>
+<img src="cycleOfLife.jpg" width="400"/>
 
 </div>
