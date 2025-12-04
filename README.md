@@ -1,14 +1,5 @@
 # wallpapers
-<table>
-  <tr>
-    <td align="center">
-      <img src="WantWater.png" alt="Piccola" width="100"/> 
-    </td>
-    <td align="center">
-      <img src="bubbles.png" alt="Media" width="200"/> 
-    </td>
-    <td align="center">
-      <img src="chainsawman-sketch.png" alt="Grande" width="300"/> 
-    </td>
-  </tr>
-</table>
+
+| ![WantWater](WantWater.png) | ![bubbles](bubbles.png) | ![chainsawman-sketch](chainsawman-sketch.png) |
+
+| ![fly](fly.jpg) | ![erenMikasaArmin](erenMikasaArmin.jpg) | ![doomerAnimeGirl](doomerAnimeGirl.jpg) |
