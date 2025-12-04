@@ -1,6 +1,8 @@
 <div align="center">
 
-<h1> My nerd weeabo weirdo nerd goblingon wallpapers :D </h1>
+<h1> My nerd/weeabo/weirdo/nerd/goblingon wallpapers :D </h1>
+
+<br><br>
 
 <img src="WantWater.png" width="400"/>
 <img src="bubbles.png" width="400"/>
