@@ -5,29 +5,29 @@ wallpapers for my arch setup :D </h1>
 
 <br>
 
-<img src="WantWater.png" width="400"/>
-<img src="bubbles.png" width="400"/>
-<img src="chainsawman-sketch.png" width="400"/>
-<img src="doomerAnimeGirl.jpg" width="400"/>
-<img src="erenMikasaArmin.jpg" width="400"/>
-<img src="fly.jpg" width="400"/>
-<img src="frierenFlowers.jpeg" width="400"/>
-<img src="girl-flowers.jpg" width="400"/>
-<img src="mangaRoomBlackHole.jpeg" width="400"/>
-<img src="nilou.jpg" width="400"/>
-<img src="nilouLake.png" width="400"/>
-<img src="rezeSketch.png" width="400"/>
-<img src="saber.jpg" width="400"/>
-<img src="spiderLilyGirl.jpg" width="400"/>
-<img src="wuthred.jpg" width="400"/>
-<img src="yaho.png" width="400"/>
-<img src="yorRose.png" width="400"/>
-<img src="yorZZZ.jpg" width="400"/>
-<img src="powerMinimal.png" width="400"/>
-<img src="pinkKawaiiGirl.jpg" width="400"/>
-<img src="cycleOfLife.jpg" width="400"/>
-<img src="lifeAsBocchi.jpeg" width="400">
-<img src="kita.png" width="400">
+<img src=".root/WantWater.png" width="400"/>
+<img src=".root/bubbles.png" width="400"/>
+<img src=".root/chainsawman-sketch.png" width="400"/>
+<img src=".root/doomerAnimeGirl.jpg" width="400"/>
+<img src=".root/erenMikasaArmin.jpg" width="400"/>
+<img src=".root/fly.jpg" width="400"/>
+<img src=".root/frierenFlowers.jpeg" width="400"/>
+<img src=".root/girl-flowers.jpg" width="400"/>
+<img src=".root/mangaRoomBlackHole.jpeg" width="400"/>
+<img src=".root/nilou.jpg" width="400"/>
+<img src=".root/nilouLake.png" width="400"/>
+<img src=".root/rezeSketch.png" width="400"/>
+<img src=".root/saber.jpg" width="400"/>
+<img src=".root/spiderLilyGirl.jpg" width="400"/>
+<img src=".root/wuthred.jpg" width="400"/>
+<img src=".root/yaho.png" width="400"/>
+<img src=".root/yorRose.png" width="400"/>
+<img src=".root/yorZZZ.jpg" width="400"/>
+<img src=".root/powerMinimal.png" width="400"/>
+<img src=".root/pinkKawaiiGirl.jpg" width="400"/>
+<img src=".root/cycleOfLife.jpg" width="400"/>
+<img src=".root/lifeAsBocchi.jpeg" width="400">
+<img src=".root/kita.png" width="400">
 
 
 </div>
