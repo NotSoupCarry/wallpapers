@@ -1,6 +1,7 @@
 <div align="center">
 
-<h1> My nerd/weeabo/weirdo/nerd/goblingon wallpapers :D </h1>
+<h1> My nerd/weeabo/weirdo/nerd/goblingon <br>
+wallpapers :D </h1>
 
 <br><br>
 
