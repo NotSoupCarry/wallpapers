@@ -2,7 +2,7 @@
 
 <details>
   <summary>
-    <img src="WantWater.png" alt="Anteprima WantWater" width="200"/> 
+    WantWater.png
     </summary>
 
   <p align="center">
@@ -12,7 +12,7 @@
 
 <details>
   <summary>
-    <img src="bubbles.png" alt="Anteprima bubbles" width="200"/>
+    bubbles.png
   </summary>
   <p align="center">
     <img src="bubbles.png" alt="bubbles Completa"/>
@@ -21,7 +21,7 @@
 
 <details>
   <summary>
-    <img src="chainsawman-sketch.png" alt="Anteprima chainsawman-sketch" width="200"/>
+    chainsawman-sketch.png
   </summary>
   <p align="center">
     <img src="chainsawman-sketch.png" alt="chainsawman-sketch Completa"/>
