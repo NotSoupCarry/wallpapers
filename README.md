@@ -26,5 +26,8 @@ wallpapers for my arch setup :D </h1>
 <img src="powerMinimal.png" width="400"/>
 <img src="pinkKawaiiGirl.jpg" width="400"/>
 <img src="cycleOfLife.jpg" width="400"/>
+<img src="lifeAsBocchi.jpeg" width="400">
+<img src="kita.png" width="400">
+
 
 </div>
