@@ -1,9 +1,9 @@
+<div align="center">
 
 <h1> my nerd/weeabo/weirdo/nerd/goblingon <br>
 wallpapers for my arch setup :D </h1>
 
 <br>
-<div align="center">
 
 <img src=".root/WantWater.png" width="400"/>
 <img src=".root/bubbles.png" width="400"/>
