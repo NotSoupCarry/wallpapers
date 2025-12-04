@@ -14,7 +14,7 @@
 <img src="nilouLake.png" alt="Nilou Lake" width="300"/>
 <img src="rezeSketch.png" alt="Reze Sketch" width="300"/>
 <img src="saber.jpg" alt="Saber" width="300"/>
-<img src="SpiderLilyGirl.jpg" alt="Spider Lily Girl" width="300"/>
+<img src="spiderLilyGirl.jpg" alt="Spider Lily Girl" width="300"/>
 <img src="wuthred.jpg" alt="Wuthred" width="300"/>
 <img src="yaho.png" alt="Yaho" width="300"/>
 <img src="yorRose.png" alt="Yor Rose" width="300"/>
