@@ -3,7 +3,7 @@
 <h1> my nerd/weeabo/weirdo/nerd/goblingon <br>
 wallpapers for my arch setup :D </h1>
 
-<br><br>
+<br>
 
 <img src="WantWater.png" width="400"/>
 <img src="bubbles.png" width="400"/>
