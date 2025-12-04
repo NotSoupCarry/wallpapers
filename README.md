@@ -1,3 +1,5 @@
+<div align="center">
+
 # wallpapers
 
 <details>
@@ -27,3 +29,35 @@
     <img src="chainsawman-sketch.png" alt="chainsawman-sketch Completa"/>
   </p>
 </details>
+
+<details>
+  <summary>
+    doomerAnimeGirl.jpg
+  </summary>
+  <p align="center">
+    <img src="doomerAnimeGirl.jpg" alt="chainsawman-sketch Completa"/>
+  </p>
+</details>
+
+
+<details>
+  <summary>
+    chainsawman-sketch.png
+  </summary>
+  <p align="center">
+    <img src="chainsawman-sketch.png" alt="chainsawman-sketch Completa"/>
+  </p>
+</details>
+
+
+<details>
+  <summary>
+    chainsawman-sketch.png
+  </summary>
+  <p align="center">
+    <img src="chainsawman-sketch.png" alt="chainsawman-sketch Completa"/>
+  </p>
+</details>
+
+
+</div>
