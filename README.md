@@ -1,8 +1,6 @@
 
-<p align="right">
-  <img src="https://img.shields.io/badge/Nerd_Core-FF69B4?style=for-the-badge" alt="Weeb Core Badge"/>
-</p>
-<h1 align="center"> Wallpapers for my Arch Setup :D </h1>
+<h1 align="center"> my nerd/weeabo/weirdo/nerd/goblingon <br>
+wallpapers for my arch setup :D </h1>
 
 <div align="center">
 
@@ -32,3 +30,7 @@
 
 
 </div>
+
+<p align="right">
+  <img src="https://img.shields.io/badge/Nerd_Core-FF69B4?style=for-the-badge" alt="Weeb Core Badge"/>
+</p>
