@@ -1,7 +1,7 @@
 
 <p align="center">
-  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTB7EIQX_nSNWiJ8e4Nsv03QBrjI-3_N9fRoA&s" width="40" height="40" alt="Icona Anime"/>
-  <img src="https://img.shields.io/badge/Weeb_Core-Anime_Aesthetics-FF69B4?style=for-the-badge" alt="Weeb Core Badge"/>
+  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTB7EIQX_nSNWiJ8e4Nsv03QBrjI-3_N9fRoA&s" width="40" height="40" />
+  <img src="https://img.shields.io/badge/Weeb_Core-FF69B4?style=for-the-badge" alt="Weeb Core Badge"/>
 </p>
 <h1 align="center"> Wallpapers for my Arch Setup :D </h1>
 
