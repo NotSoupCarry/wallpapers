@@ -22,6 +22,7 @@ wallpapers for my arch setup :D </h1>
 <img src=".root/powerMinimal.png" width="400"/>
 <img src=".root/rezeSketch.png" width="400"/>
 <img src=".root/saber.jpg" width="400"/>
+<img src=".root/sliceOfLife.jpg" width="400"/>
 <img src=".root/spiderLilyGirl.jpg" width="400"/>
 <img src=".root/WantWater.png" width="400"/>
 <img src=".root/wuthred.jpg" width="400"/>
