@@ -20,11 +20,13 @@ wallpapers for my arch setup :D </h1>
 <img src=".root/nilouLake.png" width="200"/>
 <img src=".root/pinkKawaiiGirl.jpg" width="200"/>
 <img src=".root/powerMinimal.png" width="200"/>
+<img src=".root/rainyNightWitch.jpeg" width="200"/>
 <img src=".root/rezeSketch.png" width="200"/>
 <img src=".root/saber.jpg" width="200"/>
 <img src=".root/sliceOfLife.jpg" width="200"/>
 <img src=".root/spiderLilyGirl.jpg" width="200"/>
 <img src=".root/WantWater.png" width="200"/>
+<img src=".root/whenDidLifeGotLikeThis.jpg" width="200"/>
 <img src=".root/wuthred.jpg" width="200"/>
 <img src=".root/yaho.png" width="200"/>
 <img src=".root/yorRose.png" width="200"/>
