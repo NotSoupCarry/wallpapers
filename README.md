@@ -4,12 +4,20 @@ wallpapers for my arch setup :D </h1>
 
 <div align="center">
 
+<img src=".root/ana-Ki.png" width="200"/>
 <img src=".root/angelCSM.jpg" width="200"/>
 <img src=".root/bubbles.png" width="200"/>
+<img src=".root/busStopSunshine.png" width="200"/> 
 <img src=".root/chainsawman-sketch.png" width="200"/>
-<img src=".root/doomerAnimeGirl.jpg" width="200"/>
+<img src=".root/chainsawmanZZZ.png" width="200"/>
 <img src=".root/cycleOfLife.jpg" width="200"/>
+<img src=".root/cyrene.jpg" width="200"/>
+<img src=".root/doomerAnimeGirl.jpg" width="200"/>
+<img src=".root/endlessTime.jpeg" width="200"/>
+<img src=".root/endStation.png" width="200"/>
 <img src=".root/erenMikasaArmin.jpg" width="200"/>
+<img src=".root/fallenWAIFUangel.png" width="200"/>
+<img src=".root/ferrisWheelSorrow.jpeg" width="200"/>
 <img src=".root/fly.jpg" width="200"/>
 <img src=".root/frierenFlowers.jpeg" width="200"/>
 <img src=".root/kita.png" width="200">
@@ -34,7 +42,6 @@ wallpapers for my arch setup :D </h1>
 
 
 </div>
-
 <p align="right">
   <img src="https://img.shields.io/badge/Nerd_Core-FF69B4?style=for-the-badge" alt="Weeb Core Badge"/>
 </p>
