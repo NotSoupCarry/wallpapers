@@ -1,4 +1,3 @@
-
 <h1 align="center"> my nerd/weeabo/weirdo/nerd/goblingon <br>
 wallpapers for my arch setup :D </h1>
 
@@ -6,8 +5,10 @@ wallpapers for my arch setup :D </h1>
 
 <img src=".root/ana-Ki.png" width="200"/>
 <img src=".root/angelCSM.jpg" width="200"/>
+<img src=".root/asaCM.jpg" width="200"/>
+<img src=".root/beach.png" width="200"/>
 <img src=".root/bubbles.png" width="200"/>
-<img src=".root/busStopSunshine.png" width="200"/> 
+<img src=".root/busStopSunshine.png" width="200"/>
 <img src=".root/chainsawman-sketch.png" width="200"/>
 <img src=".root/chainsawmanZZZ.png" width="200"/>
 <img src=".root/cycleOfLife.jpg" width="200"/>
@@ -20,10 +21,14 @@ wallpapers for my arch setup :D </h1>
 <img src=".root/ferrisWheelSorrow.jpeg" width="200"/>
 <img src=".root/fly.jpg" width="200"/>
 <img src=".root/frierenFlowers.jpeg" width="200"/>
+<img src=".root/getoLonely.jpeg" width="200"/>
 <img src=".root/girl-flowers.jpg" width="200"/>
 <img src=".root/happyBirthdayFurina.jpeg" width="200"/>
+<img src=".root/iAmLost.jpg" width="200"/>
 <img src=".root/kita.png" width="200">
 <img src=".root/lifeAsBocchi.jpeg" width="200">
+<img src=".root/look.jpg" width="200"/>
+<img src=".root/loveMyLife.jpg" width="200"/>
 <img src=".root/luckyStar.png" width="200"/>
 <img src=".root/luckyStarCloseUp.png" width="200"/>
 <img src=".root/mangaRoomBlackHole.jpeg" width="200"/>
@@ -42,19 +47,21 @@ wallpapers for my arch setup :D </h1>
 <img src=".root/rezeInWater.png" width="200"/>
 <img src=".root/rezeSketch.png" width="200"/>
 <img src=".root/saber.jpg" width="200"/>
+<img src=".root/samuraicatppuccin.jpg" width="200"/>
 <img src=".root/sliceOfLife.jpg" width="200"/>
 <img src=".root/spiderLilyGirl.jpg" width="200"/>
 <img src=".root/sunflowersField.png" width="200"/>
+<img src=".root/tojiWater.png" width="200"/>
 <img src=".root/vibingCat.png" width="200"/>
 <img src=".root/WantWater.png" width="200"/>
+<img src=".root/wedding.jpg" width="200"/>
 <img src=".root/wetCar.png" width="200"/>
 <img src=".root/whenDidLifeGotLikeThis.jpg" width="200"/>
 <img src=".root/wuthred.jpg" width="200"/>
-<img src=".root/yashiroNene.png" width="200"/>
 <img src=".root/yaho.png" width="200"/>
+<img src=".root/yashiroNene.png" width="200"/>
 <img src=".root/yorRose.png" width="200"/>
 <img src=".root/yorZZZ.jpg" width="200"/>
-
 
 </div>
 <p align="right">
