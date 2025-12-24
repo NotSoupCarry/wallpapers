@@ -1,5 +1,5 @@
 <h1 align="center"> my nerd/weeabo/weirdo/nerd/goblingon <br>
-wallpapers for my arch setup :D </h1>
+wallpapers :D </h1>
 
 <div align="center">
 
