@@ -64,6 +64,6 @@ wallpapers :D </h1>
 <img src=".root/yorZZZ.jpg" width="200"/>
 
 </div>
-<p align="right">
+<!-- <p align="right">
   <img src="https://img.shields.io/badge/Nerd_Core-FF69B4?style=for-the-badge" alt="Weeb Core Badge"/>
-</p>
+</p> -->
