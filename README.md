@@ -2,7 +2,7 @@
 wallpapers :D </h1>
 
 <div align="center">
-
+<img src=".root/7eleven.jpeg" width="200"/>
 <img src=".root/ana-Ki.png" width="200"/>
 <img src=".root/angelCSM.jpg" width="200"/>
 <img src=".root/asaCM.jpg" width="200"/>
